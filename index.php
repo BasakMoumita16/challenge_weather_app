@@ -2,7 +2,7 @@
 <?php
 
 if (isset($_POST["submit"])){
-	$city = $_POST["cityName"];
+$city = $_POST["cityName"];
 $string = "http://api.openweathermap.org/data/2.5/weather?q=".$city."&units=metric&appid=a21c5451c8b02861f30734c35155745c";
 $data = json_decode(file_get_contents($string));
 
