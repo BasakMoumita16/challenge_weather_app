@@ -29,8 +29,8 @@ $data = json_decode(file_get_contents($string));
 	<form method="Post" action="index.php">
 	<h1>Type City and Country</h1>
 	<br><p>For Example Delhi,in</p>
-		<input type="text" name="cityName" required>
-		<input type="submit" name="submit">
+		<input class= "int" type="text"name="cityName"placeholder="Search City">
+		<input class = "btn" type="submit" name="submit">
 	</form>
 	
 </center>
