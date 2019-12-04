@@ -29,7 +29,7 @@ height: 30px;
     width: 380px;
     height: 300px;
     font-size: 15px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 2px 2px 5px black ;
     
     
@@ -38,12 +38,5 @@ height: 30px;
     display: flex;
     flex-direction: row;
 }
-/* .cityname{
-    display: flex;
-justify-content: center;
-justify-self: center;
-justify-items: center;
-position: absolute;
-}
- */
+
 @media (max-width: 780px) { .container {flex-direction: column} };
