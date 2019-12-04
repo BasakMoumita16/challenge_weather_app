@@ -38,5 +38,12 @@ height: 30px;
     display: flex;
     flex-direction: row;
 }
-
-@media (min-width: 640px) { body {font-size:1rem;} };
+/* .cityname{
+    display: flex;
+justify-content: center;
+justify-self: center;
+justify-items: center;
+position: absolute;
+}
+ */
+@media (max-width: 780px) { .container {flex-direction: column} };
