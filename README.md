@@ -7,3 +7,5 @@
 
 # Author :
 ## Moumita Basak
+![alt text](http://localhost/challenge_weather_app/index.php")
+
