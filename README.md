@@ -7,5 +7,5 @@
 
 # Author :
 ## Moumita Basak
-<img src= "https://github.com/BasakMoumita16/challenge_weather_app/blob/master/Capture1.PNG"
+<img src= "https://github.com/BasakMoumita16/challenge_weather_app/blob/master/Capture1.PNG">
 
